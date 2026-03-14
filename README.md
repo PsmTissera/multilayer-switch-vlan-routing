@@ -21,7 +21,7 @@ Each PC belongs to a different VLAN and network.
 
 
 
-```![Network Topology](network-topology.png)
+```![Network Topology](![Network Topology](Screenshot 2026-03-14 184635.png))
 
 ```
 
