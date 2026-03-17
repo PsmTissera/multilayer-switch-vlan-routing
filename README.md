@@ -1,8 +1,7 @@
-# Multilayer Switch VLAN Routing Lab
-
+# Network Design using Multilayer Switch VLAN Routing
 ## Overview
 
-This project demonstrates the implementation of **VLAN segmentation and Inter-VLAN routing using Cisco multilayer switches** in Cisco Packet Tracer. The lab simulates a small enterprise network where multiple VLANs communicate through a Layer 3 switch.
+This project demonstrates the implementation of **VLAN segmentation and Inter-VLAN routing using Cisco multilayer switches** in Cisco Packet Tracer. It simulates a small enterprise network where multiple VLANs communicate through a Layer 3 switch.
 
 The objective of this lab is to understand how multilayer switches perform both **Layer 2 switching and Layer 3 routing** to enable communication between different VLAN networks.
 
